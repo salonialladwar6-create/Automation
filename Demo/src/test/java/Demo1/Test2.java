@@ -9,7 +9,5 @@ System.out.println("Welcome to test Automation");
 public void name() {
 	System.out.println("Day 1");
 }
-	public void name3() {
-	System.out.println("Day 2");
-}
+
 }
