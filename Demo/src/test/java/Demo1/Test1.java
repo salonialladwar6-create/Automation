@@ -10,4 +10,6 @@ public static void name() {
 	System.out.println("hii");
 	
 }
+	public static void name2() {
+	System.out.println("hii everyone");
 }
